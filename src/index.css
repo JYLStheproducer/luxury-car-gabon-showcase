@@ -17,35 +17,42 @@ All colors MUST be HSL.
     --popover: 0 0% 6%;
     --popover-foreground: 0 0% 98%;
 
-    --primary: 43 74% 66%;
+    --primary: 45 100% 51%;
     --primary-foreground: 0 0% 10%;
 
-    --secondary: 0 0% 15%;
+    --secondary: 0 65% 45%;
     --secondary-foreground: 0 0% 98%;
 
     --muted: 0 0% 20%;
     --muted-foreground: 0 0% 65%;
 
-    --accent: 43 74% 66%;
-    --accent-foreground: 0 0% 10%;
+    --accent: 0 65% 45%;
+    --accent-foreground: 0 0% 98%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 98%;
 
     --border: 0 0% 18%;
     --input: 0 0% 18%;
-    --ring: 43 74% 66%;
+    --ring: 45 100% 51%;
 
     --radius: 0.75rem;
 
-    --gold: 43 74% 66%;
-    --gold-light: 43 74% 76%;
-    --gold-dark: 43 74% 56%;
+    --gold: 45 100% 51%;
+    --gold-light: 45 100% 65%;
+    --gold-dark: 45 100% 40%;
     
-    --gradient-gold: linear-gradient(135deg, hsl(43 74% 66%), hsl(38 90% 60%));
+    --burgundy: 0 65% 45%;
+    --burgundy-light: 0 65% 55%;
+    --burgundy-dark: 0 65% 35%;
+    
+    --gradient-gold: linear-gradient(135deg, hsl(45 100% 51%), hsl(40 100% 45%));
+    --gradient-burgundy: linear-gradient(135deg, hsl(0 65% 45%), hsl(0 65% 35%));
+    --gradient-luxury: linear-gradient(135deg, hsl(0 65% 45%), hsl(45 100% 51%));
     --gradient-dark: linear-gradient(180deg, hsl(0 0% 4%), hsl(0 0% 8%));
     
-    --shadow-gold: 0 10px 40px -10px hsl(43 74% 66% / 0.4);
+    --shadow-gold: 0 10px 40px -10px hsl(45 100% 51% / 0.4);
+    --shadow-burgundy: 0 10px 40px -10px hsl(0 65% 45% / 0.4);
     --shadow-elegant: 0 20px 60px -10px hsl(0 0% 0% / 0.5);
     
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -61,24 +68,24 @@ All colors MUST be HSL.
     --popover: 0 0% 6%;
     --popover-foreground: 0 0% 98%;
 
-    --primary: 43 74% 66%;
+    --primary: 45 100% 51%;
     --primary-foreground: 0 0% 10%;
 
-    --secondary: 0 0% 15%;
+    --secondary: 0 65% 45%;
     --secondary-foreground: 0 0% 98%;
 
     --muted: 0 0% 20%;
     --muted-foreground: 0 0% 65%;
 
-    --accent: 43 74% 66%;
-    --accent-foreground: 0 0% 10%;
+    --accent: 0 65% 45%;
+    --accent-foreground: 0 0% 98%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 98%;
 
     --border: 0 0% 18%;
     --input: 0 0% 18%;
-    --ring: 43 74% 66%;
+    --ring: 45 100% 51%;
   }
 }
 
